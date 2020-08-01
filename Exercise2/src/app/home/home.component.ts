@@ -21,6 +21,7 @@ export class HomeComponent implements OnInit {
       this.spreads=spreads;
       console.log(spreads);
     });
+    
   }
- 
+  
 }
